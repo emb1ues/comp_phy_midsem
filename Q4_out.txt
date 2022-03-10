@@ -1,0 +1,24 @@
+
+Largest eigen value and the corresponding eigen vector
+3.7330929418323073 [ 0.50048352 -0.86630456  1.         -0.86630456  0.50048352]
+
+Second largest eigen value and the corresponding eigen vector
+1.999860777173622 [ 1.00000000e+00  5.39477390e-04 -1.00086963e+00  5.39477390e-04
+  1.00000000e+00]
+
+The values generated from the expression are
+3.7320508075688776 [0.0, 0.9999999999999999, 1.7320508075688772, 2.0, 1.7320508075688774]
+
+The values from expression for k=1 do not follow Mv = ev
+3.0 [0.0, 1.7320508075688772, 1.7320508075688774, 2.4492935982947064e-16, -1.732050807568877]
+
+The values from expression for k=2 do not follow Mv = ev
+2.0 [0.0, 2.0, 2.4492935982947064e-16, -2.0, -4.898587196589413e-16]
+
+The values from expression for k=3 do not follow Mv = ev
+1.0000000000000004 [0.0, 1.7320508075688774, -1.732050807568877, -4.898587196589413e-16, 1.7320508075688783]
+
+The values from expression for k=4 do not follow Mv = ev
+0.2679491924311226 [0.0, 0.9999999999999999, -1.7320508075688772, 2.0, -1.7320508075688774]
+
+The values from expression for k=5 do not follow Mv = ev
